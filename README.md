@@ -12,6 +12,7 @@ While working in classic 25/5 pomodoro rhythm, you make pauses too often and qui
 #### v0.1.1
 - [ ] App icon to be shown in the upper left corner while running
 - [ ] Sound effects on work/rest segments end
+- [ ] Critical bugs
 
 #### v0.2.0
 - [ ] Slider&toggle or similuar UI change instead of buttons
