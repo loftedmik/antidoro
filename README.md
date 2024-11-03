@@ -16,3 +16,4 @@ While working in classic 25/5 pomodoro rhythm, you make pauses too often and qui
 #### v0.2.0
 - [ ] Slider&toggle or similuar UI change instead of buttons
 - [ ] More information while timer is running
+- [ ] Pin timer window over other windows
